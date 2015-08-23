@@ -14,3 +14,4 @@ def isDivisibleByFifteen(number):
     if isDivisbleByThree(number) and isDivisibleByFive(number):
         return True
     return False
+
